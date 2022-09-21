@@ -7,7 +7,7 @@ MERN Stack Developer
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [Portfolio](http://sakil-portfolio.web.app/)
 * ✉️  You can contact me at [tmsakil19@gmail.com](mailto:tmsakil19@gmail.com)
-* 🚀  I'm currently working on [Payra App](http://https://payra-81b5c.web.app/)
+* 🚀  I'm currently working on [Payra App](http://payra-81b5c.web.app/)
 * 🧠  I'm learning Redux
 * 🤝  I'm open to collaborating on Projects
 
